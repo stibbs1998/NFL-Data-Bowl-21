@@ -1,0 +1,29 @@
+.projectignore
+.Rhistory
+*.Rproj*
+*.doc*
+*.feather
+*.html
+*.xls*
+*.log
+
+## Archives
+data/archive/*
+reports/archive/*
+
+## YAML Files
+environment.yaml
+setup-local.yaml
+setup-local.yml
+
+## Data Files
+*.feather*
+*.csv*
+
+## Output Files
+*.pdf*
+
+## Images
+*.png*
+*.jpg*
+*.svg*
